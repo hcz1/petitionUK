@@ -1,0 +1,22 @@
+#container {
+  display: -webkit-inline-box;
+  margin: auto;
+  flex-direction: column;
+  width: 50%;
+  height: 50%
+}
+
+#title {
+  display: -webkit-inline-box;
+  margin: auto;
+}
+
+#petitionInput {
+  margin-left:10px;
+}
+
+#err {
+  display: none;
+  margin: inherit;
+  padding: 10px;
+}
